@@ -7,7 +7,7 @@
 
 ### Sobre mim 😃
 
-Olá sou o <b>Isaac Matheus</b>, sou de São Francisdo do Sul - SC. Gosto muito de jogos e tecnologia, atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
+Olá sou o <b>Isaac Matheus</b>, sou de São Francisdo do Sul - SC. Gosto muito de jogos e tecnologia, atualmente estou trabalhando no Mercado Livre.
 
 ##
 
