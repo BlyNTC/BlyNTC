@@ -7,7 +7,7 @@
 
 ### Sobre mim 😃
 
-Olá sou o <b>Isaac Matheus</b>, sou de São Francisdo do Sul - SC. Gosto muito de jogos e tecnologia, atualmente estou trabalhando no Mercado Livre.
+Olá sou o <b>Isaac Matheus</b>, sou de São Francisdo do Sul - SC. Gosto muito de jogos e tecnologia, atualmente estou procurando emprego, meu ultimo emprego foi no Mercado Livre.
 
 ##
 
